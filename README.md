@@ -5,7 +5,7 @@
 ## Instrucciones
 
 ``` bash
-# Usar un ambiente virtual con python3
+# Usar un ambiente virtual con python3 (recomendado)
 virtualenv -p python3 env
 
 # Activar el ambiente, en linux es
