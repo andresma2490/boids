@@ -19,3 +19,13 @@ python boids.py
 ```
 
 
+## Referencias
+
+https://www.red3d.com/cwr/boids/
+http://www.kfish.org/boids/pseudocode.html
+https://www.youtube.com/watch?v=mhjuuHl6qHM&t=1295s
+
+
+## Link al repo
+
+https://github.com/andresma2490/Boids
